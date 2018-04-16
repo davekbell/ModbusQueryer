@@ -1,7 +1,7 @@
 # ModbusQueryer
 
-Connects to a ModbusTCP device and reads a give value from a register
+Connects to a ModbusTCP device and reads a value from a register
 
-If IP address not given, fails back to a fixed address
+If IP address not given, fails back to a hard coded IP address
 
 Only reads a pre-set register currently
